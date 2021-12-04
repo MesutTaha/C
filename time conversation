@@ -1,0 +1,71 @@
+#include <bits/stdc++.h>
+#include<iostream>
+#include<string>
+#include<cstring>
+using namespace std;
+
+/*
+ * Complete the timeConversion function below.
+ */
+ 
+
+string numberConversion(string s, int number)
+{
+    if(number < 10)
+    {
+        s = '0' + to_string(number);
+    }
+    else {
+        s = to_string(number);
+    }
+    return s;
+}
+string timeConversion(string s) {
+
+    int hh,mm,ss;
+     hh= (s[0]-'0')*10 + (s[1]-'0');
+     mm= (s[3]-'0')*10+(s[4]-'0');
+     ss=(s[6]-'0')*10+(s[7]-'0');
+     if (s[8]=='A' )
+     {
+         if(hh == 12)
+         {
+              hh = 0;
+         s = numberConversion(s, hh) +':'+ numberConversion(s, mm) +':' + numberConversion(s, ss);
+         }
+         else {
+             hh = hh;
+             s = numberConversion(s, hh) +':'+ numberConversion(s, mm) +':' + numberConversion(s, ss);
+         }
+     }
+     else if ( s[8]=='P')
+     {
+         if ( hh==12 )
+         {
+             hh=12;
+             s = numberConversion(s, hh) +':'+ numberConversion(s, mm) +':' + numberConversion(s, ss);
+         }
+         else 
+         {
+         hh=hh+12;   
+         s = numberConversion(s, hh) +':'+ numberConversion(s, mm) +':' + numberConversion(s, ss);   
+     }
+     }
+     return s;
+}
+
+int main()
+{
+    ofstream fout(getenv("OUTPUT_PATH"));
+
+    string s;
+    getline(cin, s);
+
+    string result = timeConversion(s);
+
+    fout << result << "\n";
+
+    fout.close();
+
+    return 0;
+}
