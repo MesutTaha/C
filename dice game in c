@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	
+  srand(time(NULL));
+  int x,y;
+  x=1+rand()%6;
+  y=1+rand()%6;
+  
+  printf("x = %d\n",x);
+  printf("y = %d\n",y);
+  if(x+y >= 11 && x+y <= 12)
+  {
+    printf("%d + %d = %d \n You win\n",x,y,x+y);
+  }
+  else{
+    printf("%d + %d = %d\nYou Lose",x,y,x+y);
+  }
+  
+
+	return 0;
+}
