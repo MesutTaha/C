@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <conio.h>
+int main() {
+
+	int birinciSayi = 0, ikinciSayi = 1, ucuncuSayi;
+
+	for(int i = 1; i <= 45; i++) {
+
+		if (i == 1) // i=1 iken birinci ve ikinci sayiyi yazdiriyoruz (Ilk Seferde 0, 1 yazdiriyoruz)
+			printf("%d %d ", birinciSayi, ikinciSayi);
+		//algoritma
+		ucuncuSayi = birinciSayi + ikinciSayi;
+		birinciSayi = ikinciSayi;
+		ikinciSayi = ucuncuSayi;    
+
+		printf("%d      ", ucuncuSayi); //Ekrana yazdir
+
+		if (i % 8 == 0)        // her 8 sayi yazdirdiktan sonra asagi satira iner
+			printf("\n");
+
+	}
+	return 0;
+}
