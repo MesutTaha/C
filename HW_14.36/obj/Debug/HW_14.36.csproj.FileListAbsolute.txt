@@ -1,0 +1,10 @@
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\bin\Debug\HW_14.36.exe.config
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\bin\Debug\HW_14.36.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\bin\Debug\HW_14.36.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\obj\Debug\HW_14._36.InterestCalculatorForm.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\obj\Debug\HW_14._36.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\obj\Debug\HW_14.36.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\obj\Debug\HW_14.36.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\obj\Debug\HW_14.36.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\obj\Debug\HW_14.36.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.36\HW_14.36\obj\Debug\HW_14.36.csproj.AssemblyReference.cache
