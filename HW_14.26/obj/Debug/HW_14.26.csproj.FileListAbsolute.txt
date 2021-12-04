@@ -1,0 +1,10 @@
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\bin\Debug\HW_14.26.exe.config
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\bin\Debug\HW_14.26.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\bin\Debug\HW_14.26.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\obj\Debug\HW_14._26.Form1.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\obj\Debug\HW_14._26.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\obj\Debug\HW_14.26.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\obj\Debug\HW_14.26.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\obj\Debug\HW_14.26.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\obj\Debug\HW_14.26.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.26\HW_14.26\obj\Debug\HW_14.26.csproj.AssemblyReference.cache
