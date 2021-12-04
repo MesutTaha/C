@@ -1,0 +1,22 @@
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\bin\Debug\blackjack 21.exe.config
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\bin\Debug\blackjack 21.exe
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\bin\Debug\blackjack 21.pdb
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack 21.csprojAssemblyReference.cache
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack_21.Form1.resources
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack_21.Properties.Resources.resources
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack 21.csproj.GenerateResource.cache
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack 21.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack 21.exe
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack 21.pdb
+C:\Users\Mesut\source\repos\blackjack 21\blackjack 21\obj\Debug\blackjack_21.Form2.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\bin\Debug\blackjack 21.exe.config
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\bin\Debug\blackjack 21.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\bin\Debug\blackjack 21.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack 21.csprojAssemblyReference.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack_21.Form1.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack_21.Form2.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack_21.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack 21.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack 21.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack 21.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\blackjack 21\blackjack 21\obj\Debug\blackjack 21.pdb
