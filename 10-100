@@ -1,0 +1,36 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+    int number[20];
+    int i;
+
+    for(i=1;i<=20;)
+    {
+
+        printf("Enter a number between 10 and 100 inclusive:");
+        scanf("%d",&number[i]);
+
+
+        if(number[i] == number[i-1])
+         {
+             printf(" \n");
+        }
+        else
+        {
+            if(number[i]<10 || number[i]>100)
+            {
+                printf(" \n");
+            }
+            else
+            {
+                printf(" %d\n",number[i]);
+            }
+        }
+        if(10<=number[i] && number[i]<=100)
+        {
+            i++;
+        }
+     }
+}
