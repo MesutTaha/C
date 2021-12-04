@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {	
+float receive=200,plus;
+
+    while(plus!=-1)
+    
+	{
+		printf("Enter sales in dollars (-1 to end):\n");
+		scanf("%f",&plus);
+		
+		if(plus!=-1)
+		{
+		
+		printf(" Salary is:$%f\n",receive+plus*9/100);
+	}
+		else if(plus==-1)
+		{
+			printf("\n");
+		}
+	}
+	return 0;
+}
