@@ -1,0 +1,81 @@
+#include <stdio.h>
+
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	int choise,i=-1,j=4,c,k;
+	int koltuklar[10]={1,2,3,4,5,6,7,8,9,10};
+	char harf[1];
+	printf("Flight Seating System\n\n");
+	printf("Type 1 for \"First Class.\" \n ");
+	printf("Type 2 for \"Economy.\"\n ");
+
+while(i!=5 || j!=10){
+		printf("Enter your seating choise:\n");
+		scanf("%d",&choise);
+		c=j+1;
+		k=i+1;
+		if(choise==1){
+				i++;	
+				if(koltuklar[i]>5){
+					printf("Sorry, all first class seats are full.\nWould you like a seat in economy?Enter y or n:");					
+					scanf("%s",harf);
+					i=5;
+					if(harf[0]=='y'){
+							j++;
+			printf("Boarding Pass # \n ");
+			printf("Seat Number: %d \n",koltuklar[c]);
+			printf("Section Economy \n");
+			c=j;
+					}
+					else if(harf[0]=='n'){
+						printf(" The next flight leaves in 3 hours.");
+					}
+				
+					}
+			else if(i<=5){
+				
+			printf("Boarding Pass # \n ");
+			printf("Seat Number: %d \n",koltuklar[i]);
+			printf("Section First Class \n");
+			k=i;
+		}
+}
+		
+		else if(choise==2 ){
+				j++;
+			if(koltuklar[j]>10){
+					printf("Sorry, all economy seats are full.\nWould you like a seat in first class?Enter y or n:");					
+					scanf("%s",harf);
+					j=10;
+					if(harf[0]=='y'){
+							i++;
+			printf("Boarding Pass # \n ");
+			printf("Seat Number: %d \n",koltuklar[k]);
+			printf("Section First Class \n");
+			k=i;
+					}
+					else if(harf[0]=='n'){
+						printf(" The next flight leaves in 3 hours.");
+					}
+				
+					}
+					else if(j<=10){
+			printf("Boarding Pass # \n ");
+			printf("Seat Number: %d \n",koltuklar[j]);
+			printf("Section Economy \n");	
+			c=j;	
+					}
+		}
+		else{
+			printf("Sorry, that choice is invalid.\n");
+			printf("Enter your seating choise:\n");
+		scanf("%d",&choise);
+		}
+		if(i==5 && j==10){
+			printf("There is no seat in the plane. The next flight leaves in 3 hours.");
+		}
+	}
+		return 0;
+}
