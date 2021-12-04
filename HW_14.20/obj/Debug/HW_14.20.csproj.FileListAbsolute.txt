@@ -1,0 +1,10 @@
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\bin\Debug\HW_14.20.exe.config
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\bin\Debug\HW_14.20.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\bin\Debug\HW_14.20.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\obj\Debug\HW_14._20.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\obj\Debug\HW_14.20.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\obj\Debug\HW_14.20.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\obj\Debug\HW_14.20.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\obj\Debug\HW_14.20.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\obj\Debug\HW_14.20.csproj.AssemblyReference.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.20\HW_14.20\obj\Debug\HW_14._20.LabelTextBoxButtonTest.resources
