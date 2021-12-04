@@ -1,0 +1,20 @@
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\bin\Debug\HW_14.28.exe.config
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\bin\Debug\HW_14.28.exe
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\bin\Debug\HW_14.28.pdb
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\obj\Debug\HW_14.28.csprojAssemblyReference.cache
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\obj\Debug\HW_14._28.RadioButtonsTest.resources
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\obj\Debug\HW_14._28.Properties.Resources.resources
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\obj\Debug\HW_14.28.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\obj\Debug\HW_14.28.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\obj\Debug\HW_14.28.exe
+C:\Users\Mesut\Desktop\HW_14.28\HW_14.28\obj\Debug\HW_14.28.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\bin\Debug\HW_14.28.exe.config
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\bin\Debug\HW_14.28.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\bin\Debug\HW_14.28.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\obj\Debug\HW_14.28.csproj.AssemblyReference.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\obj\Debug\HW_14._28.RadioButtonsTest.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\obj\Debug\HW_14._28.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\obj\Debug\HW_14.28.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\obj\Debug\HW_14.28.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\obj\Debug\HW_14.28.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.28\HW_14.28\obj\Debug\HW_14.28.pdb
