@@ -1,0 +1,38 @@
+#include<stdio.h>
+int main(void)
+{
+	float salesperson[20];
+	int s1 = 0, s2 = 0, s3 = 0, s4 = 0, s5 = 0, s6 = 0, s7 = 0, s8 = 0, s9=0;
+	int i;
+	for (i = 0; i < 20; i++) {
+		printf("Enter gross sales for salesperson #%d:", i+1);
+		scanf("%f", &salesperson[i]);
+		if ((salesperson[i] * 9 / 100) + 200 < 300 && (salesperson[i] * 9 / 100) + 200 > 200)
+			s1++;
+		else if ((salesperson[i] * 9 / 100) + 200 < 400 && (salesperson[i] * 9 / 100) + 200 > 300)
+			s2++;
+		else if ((salesperson[i] * 9 / 100) + 200 < 500 && (salesperson[i] * 9 / 100) + 200 > 400)
+			s3++;
+		else if ((salesperson[i] * 9 / 100) + 200 < 600 && (salesperson[i] * 9 / 100) + 200 > 500)
+			s4++;
+		else if ((salesperson[i] * 9 / 100) + 200 < 700 && (salesperson[i] * 9 / 100) + 200 > 600)
+			s5++;
+		else if ((salesperson[i] * 9 / 100) + 200 < 800 && (salesperson[i] * 9 / 100) + 200 > 700)
+			s6++;
+		else if ((salesperson[i] * 9 / 100) + 200 < 900 && (salesperson[i] * 9 / 100) + 200 > 800)
+			s7++;
+		else if ((salesperson[i] * 9 / 100) + 200 < 1000 && (salesperson[i] * 9 / 100) + 200 > 900)
+			s8++;
+		else if ((salesperson[i] * 9 / 100) + 200 > 1000)
+			s9++;
+	}
+	printf("The number of salespeople earning in range $200 - 299: %d\n", s1);
+	printf("The number of salespeople earning in range $300 - 399: %d\n", s2);
+	printf("The number of salespeople earning in range $400 - 499: %d\n", s3);
+	printf("The number of salespeople earning in range $500 - 599: %d\n", s4);
+	printf("The number of salespeople earning in range $600 - 699: %d\n", s5);
+	printf("The number of salespeople earning in range $700 - 799: %d\n", s6);
+	printf("The number of salespeople earning in range $800 - 899: %d\n", s7);
+	printf("The number of salespeople earning in range $900 - 999: %d\n", s8);
+	printf("The number of salespeople earning in range $1000 and over: %d\n", s9);
+}
