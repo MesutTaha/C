@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int yildiz(int x);
+int main() {
+	int yildiz_sayisi, k;
+
+	printf("Bir sayi girin: ");
+	scanf_s("%d", &k);
+	yildiz_sayisi = yildiz(k);
+
+	printf("%d", yildiz_sayisi);
+
+}
+int yildiz(int x) {
+	int i , j;
+	for (i = 1; i <= x; i++) {
+		for(j = 1; j <= i; j++) {
+			printf("*");
+		}
+		printf("\n");
+	}
+
+	for (i = x; 0 <= i; i--) {
+		for (j = 1; j<=i ; j++) {
+			printf("*");
+		}
+		printf("\n");
+	}
+	return i;
+}
