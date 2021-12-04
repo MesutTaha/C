@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	int choise,radius;
+	float pi=3.14F,alan,hacim,cevre;
+	
+	printf("for the circumference calculation, press 1\nfor the area calculation, press 2\nfor the volume calculation, press 3\n");
+	scanf("%d",&choise);
+	printf("enter the radius size: ");
+	switch(choise){
+		case 1:scanf("%d",&radius);
+		 cevre=2*pi*radius;
+		 printf("cevre:%f",cevre);
+		 break;
+		 case 2:scanf("%d",&radius);
+		 alan=pi*radius*radius;
+		 printf("alan:%f",alan);
+		 break;
+		 case 3:scanf("%d",&radius);
+		 hacim=4/3*pi*radius*radius*radius;
+		 printf("hacim:%f",hacim);
+		 break;
+		 	}
+	return 0;
+}
