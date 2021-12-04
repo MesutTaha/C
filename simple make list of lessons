@@ -1,0 +1,94 @@
+#include <iostream>
+#include <string> 
+#include <cstdlib> 
+
+using namespace std;
+
+class Student
+{
+	private:
+		string name;
+		int numberClasses;
+		string *classList;
+	
+	public:
+		Student();
+		string isimler(string name);
+		void clear();
+		string siniflar(string *, int size);
+		void Input();
+		
+}ogrenci;
+
+Student::Student()
+{
+	name = ' ';
+	numberClasses = 0;
+	classList[0]; 
+}
+
+void Student::Input()
+{
+
+	cout<<"Ogrenci Ders programina hos geldiniz"<<endl;
+	cout<<"Lutfen isminizi giriniz: ";
+	cin>>name;
+	cout<<endl;
+	cout<<"Isminiz : "<<name<<endl;
+	
+	cout<<"Lutfen ogrenim gordugunuz ders sayisini rakamla giriniz : ";
+	cin>>numberClasses;
+	cout<<endl;
+	
+	cout<<"Lutfen ogrenin gordugunuz ders isimlerini yaziniz: "<<endl;
+	
+    classList = new string[numberClasses]; 
+	for(int i = 0; i < numberClasses; i++)
+	{
+		cin>>classList[i];
+	}
+	
+	siniflar(classList, numberClasses);
+	
+	clear();
+	
+	cout<<"Ders sayisi: "<<numberClasses<<endl;
+	cout<<"isim degeri: "<<name<<endl;
+    
+ 
+}
+string Student::siniflar(string *classList, int numberClasses)
+{
+	for(int j = 0; j < numberClasses; j++)
+	{
+		if(classList[j]=="mat")
+		{
+			classList[j] = "Matematik";
+		}
+		else if(classList[j]=="fen")
+		{
+			classList[j] = "Fen Bilgisi";
+		}
+		cout<<j+1<<". ders : "<<classList[j]<<endl;
+	}
+	return *classList;
+}
+
+string Student::isimler(string name)
+{
+	return name;
+}
+
+void Student::clear()
+{
+
+		name = "";
+		classList[0];
+		numberClasses = 0;
+ 
+}
+
+int main(int argc, char** argv) {
+	ogrenci.Input();
+	return 0;
+}
