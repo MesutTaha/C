@@ -1,0 +1,33 @@
+#include <stdio.h>
+int main() {
+	int sayi, adet, i;
+	int kucuk;
+
+	printf("How many numbers will be entered?\n");
+	scanf("%d", &adet);
+
+	//Kullanicinin istedigi kadar( adet kadar ) sayi girmesini isteyen döngü        
+	for (i = 0; i < adet; i++) {
+
+		printf("%d)enter a number: ", i + 1);  //Kullanicinin kaçinci sayiyi girdigini görmek için i+1 olarak gösteriyoruz
+		scanf("%d", &sayi);
+
+		if (i == 0) {                // Döngü ilk döndügünde yani i=0 da buyuk degiskenini sayiya esitliyoruz.
+			kucuk = sayi;        // Bu esitlemeyi yapmazsak eger karsilastiracak kucuk degeri olmayacak.
+		}
+
+		//Döngü ilk defa dönmüyorsa eger!!!
+		else {
+
+			//Kucuk degeri yeni girilen sayidan büyükse eger o degeri kucuk degiskenine atar
+			if (kucuk > sayi) {
+				kucuk = sayi;
+			}
+		}
+	}
+
+
+	// Ekrana yazdir
+	printf("the smallest number= %d", kucuk);
+
+}
