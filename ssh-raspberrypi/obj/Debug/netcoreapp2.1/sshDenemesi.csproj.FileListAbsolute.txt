@@ -1,0 +1,11 @@
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\bin\Debug\netcoreapp2.1\sshDenemesi.deps.json
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\bin\Debug\netcoreapp2.1\sshDenemesi.runtimeconfig.json
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\bin\Debug\netcoreapp2.1\sshDenemesi.runtimeconfig.dev.json
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\bin\Debug\netcoreapp2.1\sshDenemesi.dll
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\obj\Debug\netcoreapp2.1\sshDenemesi.csprojAssemblyReference.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\obj\Debug\netcoreapp2.1\sshDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\obj\Debug\netcoreapp2.1\sshDenemesi.AssemblyInfoInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\obj\Debug\netcoreapp2.1\sshDenemesi.AssemblyInfo.cs
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\bin\Debug\netcoreapp2.1\sshDenemesi.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\obj\Debug\netcoreapp2.1\sshDenemesi.dll
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\sshDenemesi\sshDenemesi\obj\Debug\netcoreapp2.1\sshDenemesi.pdb
