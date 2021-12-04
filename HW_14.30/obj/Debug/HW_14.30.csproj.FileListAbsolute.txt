@@ -1,0 +1,10 @@
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\bin\Debug\HW_14.30.exe.config
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\bin\Debug\HW_14.30.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\bin\Debug\HW_14.30.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\obj\Debug\HW_14._30.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\obj\Debug\HW_14.30.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\obj\Debug\HW_14.30.csproj.CoreCompileInputs.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\obj\Debug\HW_14.30.exe
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\obj\Debug\HW_14.30.pdb
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\obj\Debug\HW_14.30.csproj.AssemblyReference.cache
+C:\Users\Mesut\Desktop\Visual Studio kodları\repos\C#\HW_14.30\HW_14.30\obj\Debug\HW_14._30.PictureBoxTest.resources
