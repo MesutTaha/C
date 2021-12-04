@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <stdlib.h>
+void falc_calc();
+int main() {
+
+   falc_calc();
+    
+	return 0;
+}
+void falc_calc(){
+		int i,sayi, faktoriyel=1;
+	
+	printf("Enter an integer between 0 and 9 or -1 Invalid entry\n");
+	scanf("%d", &sayi);
+	 while(sayi!=-1){
+      
+	if(sayi<9 && sayi>1) {
+		for (i = 1; i <= sayi; i++) {
+			faktoriyel *= i;
+	}
+		printf("*******\n\n");
+		printf("%d! =", sayi);
+		for (i = sayi; i > 0; i--) {
+			printf(" %d X ", i);
+		}
+		printf(" \b\b\b= %d\n\n", faktoriyel);
+		faktoriyel=1;
+		printf("*******\n\n");
+		printf("Enter an integer between 0 and 9 or -1 Invalid entry\n");
+	    scanf("%d", &sayi);
+
+	
+}
+else{
+	printf("Enter an integer between 0 and 9 or -1 Invalid entry\n");
+	scanf("%d",&sayi);
+}
+}
+}
