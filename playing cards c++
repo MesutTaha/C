@@ -1,0 +1,77 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main() {
+	int row1, column1, row2, column2, tut;
+	int i, j, k;
+
+	printf("First Matrix Size:\n");
+	scanf("%d%d", &row1, &column1);
+	printf("Second Matrix Size:\n");
+	scanf("%d%d", &row2, &column2);
+	printf("First Matrix Size is: %d X %d\nSecond Matrix Size is: %d X %d\n", row1, column1, row2, column2);
+	if (column1 == row2) {
+		int matrix1[row1][column1];
+		int matrixAnswer[row1][column2];
+		
+		printf("Enter the First Matrix:\n");
+		for (i = 0; i < row1; i++) {
+			for (j = 0; j < column1; j++) {
+				printf("%d. row %d. column: ", i + 1, j + 1);
+				scanf("%d", &matrix1[i][j]);
+				printf("\n ");
+			}		
+			
+		}for (i = 0; i < row1; i++) {
+			for (j = 0; j < column1; j++) {
+				printf("%3d", matrix1[i][j]);
+			}
+			printf("\n");
+		}
+	
+	int matrix2[row2][column2];
+		printf("Enter the Second Matrix:\n");
+		for (i = 0; i < row2; i++) {
+			for (j = 0; j < column2; j++) {
+				printf("%d. row %d. column: ", i + 1, j + 1);
+				scanf("%d", &matrix2[i][j]);
+				printf("\n ");
+			}
+		}
+			
+		for (i = 0; i < row2; i++) {
+			for (j = 0; j < column2; j++) {
+				printf("%3d", matrix2[i][j]);
+			}
+	    printf("\n");
+	}
+
+       printf("the Result is:\n");
+	for(k=0;k<row1;k++)
+	{
+		for(i=0;i<column2;i++)
+		{
+		tut=0;
+			
+			for(j=0;j<column1;j++)
+			{
+			tut+=(matrix1[k][j]*matrix2[j][i]);
+			}
+				matrixAnswer[k][i]=tut;
+		}
+	}
+		for(i=0;i<row1;i++)
+		{
+		for(j=0;j<column2;j++)
+		{
+			printf("%d ",matrixAnswer[i][j]);
+		
+		}
+		printf("\n");
+		
+		}
+	}
+	else {
+		printf("\n\nPlease Check the Matrix Rules");
+	}
+	return 0;
+}
